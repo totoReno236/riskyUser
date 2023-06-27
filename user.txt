@@ -1,0 +1,3 @@
+"aadUserid" : "toto@reno236outlook.onmicrosoft.com"
+aadPassword : "ibForm@tion"
+aadTenantDomain : "reno236outlook.onmicrosoft.com"
