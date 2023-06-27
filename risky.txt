@@ -1,0 +1,4 @@
+"AadClientId": "329f9318-ce47-4532-939e-843b1e181bd6",
+"AadSecret": "76q8Q~WBnHHOOajx7~E5XIH8jp5aylIVbprisaGL",
+"AadTenantDomain": "reno236outlook.onmicrosoft.com",
+"AadTenantId": "94ac4318-2fe5-428e-8aee-5ce667f43d53",
